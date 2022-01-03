@@ -1,5 +1,5 @@
 # Yuliya Kozeka
-![](https://photos.google.com/photo/AF1QipOvvJ4fnBZOhTr1TdqaqoTNbPSis2r6t2xlHPaS)
+
 ## Junior Frontend Developer ##
 ## **Contacts**
 Minsk
