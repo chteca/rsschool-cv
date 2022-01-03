@@ -1,14 +1,12 @@
 # Yuliya Kozeka
-![photo](E:\folder\rsschool-cv\photo_2021-01-06_23-43-17.jpg "Photo")
+![](https://photos.google.com/photo/AF1QipOvvJ4fnBZOhTr1TdqaqoTNbPSis2r6t2xlHPaS)
 ## Junior Frontend Developer ##
 ## **Contacts**
-Minsk, m. Mahileuskaya
+Minsk
 
 **Phone** *+375-44-586-18-33*
 
 **E-mail** *yulyakozeka@gmail.com*
-
-**Discord** *Yulya #3945*
 
 [LinkedIn](https://www.linkedin.com/in/yuliya-kozeka-6930921b4/ "LinkedIn")
 
