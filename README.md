@@ -1,1 +1,1 @@
-https://chteca.github.io/rsschool-cv/cv
+https://chteca.github.io/rsschool-cv/
